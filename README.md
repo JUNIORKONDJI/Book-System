@@ -14,15 +14,13 @@ A full-stack library management application built with **React**, **Node.js/Expr
 ### Backend
 1. `cd backend`
 2. `npm install`
-3. `node server.js` (Le serveur tourne sur le port 5000)
+3. `node server.js` ((http://localhost:3000))
 
 ### Frontend
 1. `cd frontend`
 2. `npm install`
-3. `npm start` (L'application tourne sur le port 3000)
-
-
-
+3. `npm start` ((http://localhost:3000))
+4. 
 
 # Getting Started with Create React App
 
